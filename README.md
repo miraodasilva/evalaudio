@@ -4,7 +4,12 @@ This repo allows you to easily compare audio samples using objective evaluation 
 ## Software requirements
 Python 3.7+
 
-Pip requirements under [requirements.txt](requirements.txt), and ctcdecode==0.4, which can be installed from this [repository](https://github.com/parlance/ctcdecode)
+Pip requirements under [requirements.txt](requirements.txt), and ctcdecode==0.4, which can be installed from this [repository](https://github.com/parlance/ctcdecode) as such:
+```
+git clone https://github.com/parlance/ctcdecode.git
+cd ctcdecode
+pip install .
+```
 
 ## Setup
 First, extract GRID annotations:
