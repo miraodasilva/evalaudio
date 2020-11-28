@@ -7,6 +7,12 @@ Python 3.7+
 Pip requirements under [requirements.txt](requirements.txt), and ctcdecode, which can be installed from this [repository](https://github.com/parlance/ctcdecode)
 
 ## Setup
+First, extract GRID annotations:
+```
+cd WER
+unzip annotations.zip
+```
+
 You should place the real and generated audio in two symmetrical folders. for GRID, the directory structure should be:
 ```
 real_grid
