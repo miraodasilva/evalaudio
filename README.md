@@ -13,6 +13,12 @@ cd WER
 unzip annotations.zip
 ```
 
+Second, extract LRW ckpt:
+```
+cd WER/LRW
+unzip model_best.zip
+```
+
 You should place the real and generated audio in two symmetrical folders. for GRID, the directory structure should be:
 ```
 real_grid
