@@ -24,6 +24,8 @@ cd WER/LRW
 unzip model_best.zip
 ```
 
+Now, we are ready for evaluation.
+
 You should place the real and generated audio in two symmetrical folders. for GRID, the directory structure should be:
 ```
 real_grid
