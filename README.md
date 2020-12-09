@@ -1,5 +1,5 @@
 # evalaudio
-This repo allows you to easily compare audio samples using objective evaluation metrics, reproducing the evaluation procedure presented in our [work](https://sites.google.com/view/video-to-speech). It contains two ASR models: one for GRID and one for LRW.
+This repo allows you to easily compare audio samples using objective evaluation metrics, reproducing the evaluation procedure presented in our [work](https://sites.google.com/view/video-to-speech). It contains two ASR models: one for GRID and one for LRW (taken from [this repo](https://github.com/mpc001/Lipreading_using_Temporal_Convolutional_Networks)).
 
 ## Software requirements
 Python 3.7+
